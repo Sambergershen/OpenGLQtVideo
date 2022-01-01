@@ -1,0 +1,2 @@
+# OpenGLQtVideo
+opengl play vedio
